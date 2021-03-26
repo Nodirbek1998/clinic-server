@@ -31,8 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-'.idea'
-'*.mvn'
-klinika-server/.mvn
-klinika-server/mvnw
-klinika-server/mvnw.cmd'.idea' 
+.mvn
+./target
