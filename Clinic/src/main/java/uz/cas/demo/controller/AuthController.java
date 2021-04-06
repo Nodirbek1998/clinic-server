@@ -15,7 +15,6 @@ import uz.cas.demo.service.UsersService;
 import java.io.IOException;
 
 @Controller
-@CrossOrigin("*")
 @RequestMapping("/api/auth")
 public class AuthController {
 

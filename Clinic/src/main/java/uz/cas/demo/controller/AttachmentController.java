@@ -11,7 +11,6 @@ import java.io.IOException;
 
 @Controller
 @RequestMapping("/api/img")
-@CrossOrigin("*")
 public class AttachmentController {
 
     @Autowired
